@@ -177,7 +177,7 @@ hermes-CCC/
 
 | Contributor | Role |
 |---|---|
-| [AlexAI-MCP](https://github.com/AlexAI-MCP) (yongwook.lee@daewooenc.com) | Creator & Maintainer |
+| [AlexAI-MCP](https://github.com/AlexAI-MCP) | Creator & Maintainer |
 | Claude (Anthropic) | Skill design, porting, and architecture |
 | Codex (OpenAI) | Parallel skill generation and build automation |
 
